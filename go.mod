@@ -8,6 +8,7 @@ require (
 	github.com/Azure/go-autorest/autorest/adal v0.8.3 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20180315120708-ccb8e960c48f
 	github.com/aws/aws-sdk-go v1.15.57
+	github.com/bibasoft-team/drone-envsubst v1.0.4 // indirect
 	github.com/codegangsta/negroni v1.0.0 // indirect
 	github.com/coreos/go-semver v0.2.0
 	github.com/dchest/authcookie v0.0.0-20120917135355-fbdef6e99866
@@ -17,7 +18,6 @@ require (
 	github.com/drone/drone-runtime v1.1.1-0.20200623162453-61e33e2cab5d
 	github.com/drone/drone-ui v0.0.0-20201110214517-ac1349fcc19c
 	github.com/drone/drone-yaml v1.2.4-0.20200326192514-6f4d6dfb39e4
-	github.com/bibasoft-team/drone-envsubst v1.0.3-0.20200709231038-aa43e1c1a629
 	github.com/drone/go-license v1.0.2
 	github.com/drone/go-login v1.0.4-0.20190311170324-2a4df4f242a2
 	github.com/drone/go-scm v1.8.0

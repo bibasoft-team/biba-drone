@@ -42,6 +42,8 @@ github.com/aws/aws-sdk-go v1.15.57/go.mod h1:mFuSZ37Z9YOHbQEwBWztmVzqXrEkub65tZo
 github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973 h1:xJ4a3vCFaGF/jqvzLMYoU8P317H5OQ+Via4RmuPwCS0=
 github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973/go.mod h1:Dwedo/Wpr24TaqPxmxbtue+5NUziq4I4S80YR8gNf3Q=
 github.com/bgentry/speakeasy v0.1.0/go.mod h1:+zsyZBPWlz7T6j88CTgSN5bM796AkVf0kBD4zp0CCIs=
+github.com/bibasoft-team/drone-envsubst v1.0.4 h1:sfwla3jnuA/5HO23iNxUqP7RFgrRsHWehK/2NO5XZhM=
+github.com/bibasoft-team/drone-envsubst v1.0.4/go.mod h1:y3TfYA9PKaolx0VjujFVDhR2St6uPGpGnD8m2UtelAE=
 github.com/bmatcuk/doublestar v1.1.1 h1:YroD6BJCZBYx06yYFEWvUuKVWQn3vLLQAVmDmvTSaiQ=
 github.com/bmatcuk/doublestar v1.1.1/go.mod h1:UD6OnuiIn0yFxxA2le/rnRU1G4RaI4UvFv1sNto9p6w=
 github.com/boltdb/bolt v1.3.1/go.mod h1:clJnj/oiGkjum5o1McbSZDSLxVThjynRyGBgiAx27Ps=
@@ -79,8 +81,6 @@ github.com/docker/go-connections v0.3.0 h1:3lOnM9cSzgGwx8VfK/NGOW5fLQ0GjIlCkaktF
 github.com/docker/go-connections v0.3.0/go.mod h1:Gbd7IOopHjR8Iph03tsViu4nIes5XhDvyHbTtUxmeec=
 github.com/docker/go-units v0.3.3 h1:Xk8S3Xj5sLGlG5g67hJmYMmUgXv5N4PhkjJHHqrwnTk=
 github.com/docker/go-units v0.3.3/go.mod h1:fgPhTUdO+D/Jk86RDLlptpiXQzgHJF7gydDDbaIK4Dk=
-github.com/bibasoft-team v1.10.1 h1:eVAko1KyItcyQ1CKFVsTYfx83Sbe5WbK1u1wCuQ7KjI=
-github.com/bibasoft-team v1.10.1/go.mod h1:FCWQzxSGDWk1u2IjoLTV10jgSNl3zNz4nW2flF6xwVw=
 github.com/drone/drone-go v1.3.2-0.20200826185551-24929e4d2cfc h1:6AXXCMPilpJqwNqUfG6Zgwakr7HCwnialFiQ/AbqYyQ=
 github.com/drone/drone-go v1.3.2-0.20200826185551-24929e4d2cfc/go.mod h1:fxCf9jAnXDZV1yDr0ckTuWd1intvcQwfJmTRpTZ1mXg=
 github.com/drone/drone-go v1.4.1-0.20201109202657-b9e58bbbcf27 h1:58xKlW/Kwp/Apz+R5qNGzBUIzfq1Z57L7Udz1B6bgWE=
@@ -94,8 +94,6 @@ github.com/drone/drone-ui v0.0.0-20201110214517-ac1349fcc19c h1:RHVLOVo6vC/p3i64
 github.com/drone/drone-ui v0.0.0-20201110214517-ac1349fcc19c/go.mod h1:NBtVWW7NNJpD9+huMD/5TAE1db2nrEh0i35/9Rf1MPI=
 github.com/drone/drone-yaml v1.2.4-0.20200326192514-6f4d6dfb39e4 h1:XsstoCeXC2t8lA9OLTdoFwckaptqahxwjCWsenySfX8=
 github.com/drone/drone-yaml v1.2.4-0.20200326192514-6f4d6dfb39e4/go.mod h1:QsqliFK8nG04AHFN9tTn9XJomRBQHD4wcejWW1uz/10=
-github.com/bibasoft-team/drone-envsubst v1.0.3-0.20200709231038-aa43e1c1a629 h1:rIaZZalMGGPb2cU/+ypuggZ8aMlpa17RUlJUtsMv8pw=
-github.com/bibasoft-team/drone-envsubst v1.0.3-0.20200709231038-aa43e1c1a629/go.mod h1:N2jZmlMufstn1KEqvbHjw40h1KyTmnVzHcSc9bFiJ2g=
 github.com/drone/go-license v1.0.2 h1:7OwndfYk+Lp/cGHkxe4HUn/Ysrrw3WYH2pnd99yrkok=
 github.com/drone/go-license v1.0.2/go.mod h1:fGRHf+F1cEaw3YVYiJ6js3G3dVhcxyS617RnNRUMsms=
 github.com/drone/go-login v1.0.4-0.20190311170324-2a4df4f242a2 h1:RGpgNkowJc5LAVn/ZONx70qmnaTA0z/3hHPzTBdAEO8=
