@@ -37,7 +37,7 @@ import (
 	"github.com/bibasoft-team/drone/plugin/registry"
 	"github.com/bibasoft-team/drone/plugin/secret"
 	"github.com/bibasoft-team/drone/store/shared/db"
-	"github.com/drone/envsubst"
+	envsubst "github.com/bibasoft-team/drone-envsubst"
 	"golang.org/x/sync/errgroup"
 
 	"github.com/sirupsen/logrus"
