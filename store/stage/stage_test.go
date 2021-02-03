@@ -10,11 +10,11 @@ import (
 	"context"
 	"testing"
 
-	"github.com/drone/drone/core"
-	"github.com/drone/drone/store/build"
-	"github.com/drone/drone/store/repos"
-	"github.com/drone/drone/store/shared/db"
-	"github.com/drone/drone/store/shared/db/dbtest"
+	"github.com/bibasoft-team/drone/core"
+	"github.com/bibasoft-team/drone/store/build"
+	"github.com/bibasoft-team/drone/store/repos"
+	"github.com/bibasoft-team/drone/store/shared/db"
+	"github.com/bibasoft-team/drone/store/shared/db/dbtest"
 )
 
 var noContext = context.TODO()

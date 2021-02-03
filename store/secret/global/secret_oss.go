@@ -19,9 +19,9 @@ package global
 import (
 	"context"
 
-	"github.com/drone/drone/core"
-	"github.com/drone/drone/store/shared/db"
-	"github.com/drone/drone/store/shared/encrypt"
+	"github.com/bibasoft-team/drone/core"
+	"github.com/bibasoft-team/drone/store/shared/db"
+	"github.com/bibasoft-team/drone/store/shared/encrypt"
 )
 
 // New returns a new Secret database store.

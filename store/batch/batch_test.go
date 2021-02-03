@@ -9,12 +9,12 @@ import (
 	"database/sql"
 	"testing"
 
-	"github.com/drone/drone/core"
-	"github.com/drone/drone/store/perm"
-	"github.com/drone/drone/store/repos"
-	"github.com/drone/drone/store/shared/db"
-	"github.com/drone/drone/store/shared/db/dbtest"
-	"github.com/drone/drone/store/user"
+	"github.com/bibasoft-team/drone/core"
+	"github.com/bibasoft-team/drone/store/perm"
+	"github.com/bibasoft-team/drone/store/repos"
+	"github.com/bibasoft-team/drone/store/shared/db"
+	"github.com/bibasoft-team/drone/store/shared/db/dbtest"
+	"github.com/bibasoft-team/drone/store/user"
 )
 
 var noContext = context.TODO()

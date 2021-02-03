@@ -22,7 +22,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/drone/drone/core"
+	"github.com/bibasoft-team/drone/core"
 )
 
 type payload struct {

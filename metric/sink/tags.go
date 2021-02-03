@@ -17,7 +17,7 @@ package sink
 import (
 	"fmt"
 
-	"github.com/drone/drone/version"
+	"github.com/bibasoft-team/drone/version"
 )
 
 func createTags(config Config) []string {

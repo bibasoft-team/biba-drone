@@ -79,6 +79,8 @@ github.com/docker/go-connections v0.3.0 h1:3lOnM9cSzgGwx8VfK/NGOW5fLQ0GjIlCkaktF
 github.com/docker/go-connections v0.3.0/go.mod h1:Gbd7IOopHjR8Iph03tsViu4nIes5XhDvyHbTtUxmeec=
 github.com/docker/go-units v0.3.3 h1:Xk8S3Xj5sLGlG5g67hJmYMmUgXv5N4PhkjJHHqrwnTk=
 github.com/docker/go-units v0.3.3/go.mod h1:fgPhTUdO+D/Jk86RDLlptpiXQzgHJF7gydDDbaIK4Dk=
+github.com/bibasoft-team v1.10.1 h1:eVAko1KyItcyQ1CKFVsTYfx83Sbe5WbK1u1wCuQ7KjI=
+github.com/bibasoft-team v1.10.1/go.mod h1:FCWQzxSGDWk1u2IjoLTV10jgSNl3zNz4nW2flF6xwVw=
 github.com/drone/drone-go v1.3.2-0.20200826185551-24929e4d2cfc h1:6AXXCMPilpJqwNqUfG6Zgwakr7HCwnialFiQ/AbqYyQ=
 github.com/drone/drone-go v1.3.2-0.20200826185551-24929e4d2cfc/go.mod h1:fxCf9jAnXDZV1yDr0ckTuWd1intvcQwfJmTRpTZ1mXg=
 github.com/drone/drone-go v1.4.1-0.20201109202657-b9e58bbbcf27 h1:58xKlW/Kwp/Apz+R5qNGzBUIzfq1Z57L7Udz1B6bgWE=

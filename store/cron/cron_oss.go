@@ -19,8 +19,8 @@ package cron
 import (
 	"context"
 
-	"github.com/drone/drone/core"
-	"github.com/drone/drone/store/shared/db"
+	"github.com/bibasoft-team/drone/core"
+	"github.com/bibasoft-team/drone/store/shared/db"
 )
 
 // New returns a new Secret database store.

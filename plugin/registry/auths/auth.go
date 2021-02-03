@@ -22,7 +22,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/drone/drone/core"
+	"github.com/bibasoft-team/drone/core"
 )
 
 // config represents the Docker client configuration,

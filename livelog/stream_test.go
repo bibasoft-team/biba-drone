@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/drone/drone/core"
+	"github.com/bibasoft-team/drone/core"
 )
 
 func TestStream(t *testing.T) {

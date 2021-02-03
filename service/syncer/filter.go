@@ -9,7 +9,7 @@ package syncer
 import (
 	"strings"
 
-	"github.com/drone/drone/core"
+	"github.com/bibasoft-team/drone/core"
 )
 
 // FilterFunc can be used to filter which repositories are

@@ -18,10 +18,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/drone/drone/operator/manager"
+	"github.com/bibasoft-team/drone/operator/manager"
 
-	"github.com/drone/drone/core"
-	"github.com/drone/drone/store/shared/db"
+	"github.com/bibasoft-team/drone/core"
+	"github.com/bibasoft-team/drone/store/shared/db"
 
 	"github.com/hashicorp/go-retryablehttp"
 	"github.com/oxtoacart/bpool"

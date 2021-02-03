@@ -7,7 +7,7 @@ package syncer
 import (
 	"testing"
 
-	"github.com/drone/drone/core"
+	"github.com/bibasoft-team/drone/core"
 )
 
 func TestNamespaceFilter(t *testing.T) {

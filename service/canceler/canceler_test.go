@@ -7,8 +7,8 @@ package canceler
 import (
 	"testing"
 
-	"github.com/drone/drone/core"
-	"github.com/drone/drone/mock"
+	"github.com/bibasoft-team/drone/core"
+	"github.com/bibasoft-team/drone/mock"
 	"github.com/go-chi/chi"
 
 	"github.com/golang/mock/gomock"

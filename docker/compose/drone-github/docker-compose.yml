@@ -1,7 +1,7 @@
 version: "3.8"
 services:
     drone:
-        image: drone/drone:latest
+        image: bibasoft/drone:latest
         ports:
         - "8080:80"
         environment:

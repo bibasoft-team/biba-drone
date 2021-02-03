@@ -14,7 +14,7 @@
 
 package webhook
 
-import "github.com/drone/drone/core"
+import "github.com/bibasoft-team/drone/core"
 
 // Config provides the webhook configuration.
 type Config struct {

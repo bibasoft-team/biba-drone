@@ -12,9 +12,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/drone/drone/core"
-	"github.com/drone/drone/handler/api/errors"
-	"github.com/drone/drone/handler/api/request"
+	"github.com/bibasoft-team/drone/core"
+	"github.com/bibasoft-team/drone/handler/api/errors"
+	"github.com/bibasoft-team/drone/handler/api/request"
 	"github.com/google/go-cmp/cmp"
 
 	"github.com/go-chi/chi"

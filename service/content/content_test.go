@@ -8,9 +8,9 @@ import (
 	"context"
 	"testing"
 
-	"github.com/drone/drone/core"
-	"github.com/drone/drone/mock"
-	"github.com/drone/drone/mock/mockscm"
+	"github.com/bibasoft-team/drone/core"
+	"github.com/bibasoft-team/drone/mock"
+	"github.com/bibasoft-team/drone/mock/mockscm"
 	"github.com/drone/go-scm/scm"
 	"github.com/google/go-cmp/cmp"
 

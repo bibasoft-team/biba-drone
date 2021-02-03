@@ -17,10 +17,10 @@ package remote
 import (
 	"net/http"
 
-	"github.com/drone/drone/core"
-	"github.com/drone/drone/handler/api/render"
-	"github.com/drone/drone/handler/api/request"
-	"github.com/drone/drone/logger"
+	"github.com/bibasoft-team/drone/core"
+	"github.com/bibasoft-team/drone/handler/api/render"
+	"github.com/bibasoft-team/drone/handler/api/request"
+	"github.com/bibasoft-team/drone/logger"
 )
 
 // HandleRepos returns an http.HandlerFunc that write a json-encoded

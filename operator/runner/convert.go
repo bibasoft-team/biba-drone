@@ -19,7 +19,7 @@ import (
 
 	"github.com/drone/drone-runtime/engine"
 	"github.com/drone/drone-runtime/runtime"
-	"github.com/drone/drone/core"
+	"github.com/bibasoft-team/drone/core"
 )
 
 func convertVolumes(from []string) map[string]string {

@@ -22,8 +22,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/drone/drone/core"
-	"github.com/drone/drone/logger"
+	"github.com/bibasoft-team/drone/core"
+	"github.com/bibasoft-team/drone/logger"
 	"github.com/drone/go-login/login"
 
 	"github.com/dchest/uniuri"

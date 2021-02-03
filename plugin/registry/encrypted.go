@@ -22,9 +22,9 @@ import (
 	"errors"
 
 	"github.com/drone/drone-yaml/yaml"
-	"github.com/drone/drone/core"
-	"github.com/drone/drone/logger"
-	"github.com/drone/drone/plugin/registry/auths"
+	"github.com/bibasoft-team/drone/core"
+	"github.com/bibasoft-team/drone/logger"
+	"github.com/bibasoft-team/drone/plugin/registry/auths"
 )
 
 // Encrypted returns a new encrypted registry credentials

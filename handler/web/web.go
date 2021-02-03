@@ -18,10 +18,10 @@ import (
 	"net/http"
 
 	"github.com/drone/drone-ui/dist"
-	"github.com/drone/drone/core"
-	"github.com/drone/drone/handler/web/landingpage"
-	"github.com/drone/drone/handler/web/link"
-	"github.com/drone/drone/logger"
+	"github.com/bibasoft-team/drone/core"
+	"github.com/bibasoft-team/drone/handler/web/landingpage"
+	"github.com/bibasoft-team/drone/handler/web/link"
+	"github.com/bibasoft-team/drone/logger"
 	"github.com/drone/go-login/login"
 	"github.com/drone/go-scm/scm"
 

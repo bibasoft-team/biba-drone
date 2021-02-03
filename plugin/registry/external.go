@@ -12,9 +12,9 @@ import (
 
 	"github.com/drone/drone-go/plugin/secret"
 	"github.com/drone/drone-yaml/yaml"
-	"github.com/drone/drone/core"
-	"github.com/drone/drone/logger"
-	"github.com/drone/drone/plugin/registry/auths"
+	"github.com/bibasoft-team/drone/core"
+	"github.com/bibasoft-team/drone/logger"
+	"github.com/bibasoft-team/drone/plugin/registry/auths"
 
 	droneapi "github.com/drone/drone-go/drone"
 )

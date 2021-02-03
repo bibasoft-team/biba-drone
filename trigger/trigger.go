@@ -25,8 +25,8 @@ import (
 	"github.com/drone/drone-yaml/yaml/linter"
 	"github.com/drone/drone-yaml/yaml/signer"
 
-	"github.com/drone/drone/core"
-	"github.com/drone/drone/trigger/dag"
+	"github.com/bibasoft-team/drone/core"
+	"github.com/bibasoft-team/drone/trigger/dag"
 
 	"github.com/sirupsen/logrus"
 )

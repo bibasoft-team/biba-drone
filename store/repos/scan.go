@@ -17,8 +17,8 @@ package repos
 import (
 	"database/sql"
 
-	"github.com/drone/drone/core"
-	"github.com/drone/drone/store/shared/db"
+	"github.com/bibasoft-team/drone/core"
+	"github.com/bibasoft-team/drone/store/shared/db"
 )
 
 // ToParams converts the Repository structure to a set

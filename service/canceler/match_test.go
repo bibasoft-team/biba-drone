@@ -7,7 +7,7 @@ package canceler
 import (
 	"testing"
 
-	"github.com/drone/drone/core"
+	"github.com/bibasoft-team/drone/core"
 )
 
 func TestMatch(t *testing.T) {

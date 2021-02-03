@@ -16,7 +16,7 @@ package commit
 
 import (
 	"context"
-	"github.com/drone/drone/core"
+	"github.com/bibasoft-team/drone/core"
 	"github.com/drone/go-scm/scm"
 )
 

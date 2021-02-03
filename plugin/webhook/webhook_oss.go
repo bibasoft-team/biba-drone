@@ -19,7 +19,7 @@ package webhook
 import (
 	"context"
 
-	"github.com/drone/drone/core"
+	"github.com/bibasoft-team/drone/core"
 )
 
 // New returns a no-op Webhook sender.
