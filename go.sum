@@ -42,8 +42,8 @@ github.com/aws/aws-sdk-go v1.15.57/go.mod h1:mFuSZ37Z9YOHbQEwBWztmVzqXrEkub65tZo
 github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973 h1:xJ4a3vCFaGF/jqvzLMYoU8P317H5OQ+Via4RmuPwCS0=
 github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973/go.mod h1:Dwedo/Wpr24TaqPxmxbtue+5NUziq4I4S80YR8gNf3Q=
 github.com/bgentry/speakeasy v0.1.0/go.mod h1:+zsyZBPWlz7T6j88CTgSN5bM796AkVf0kBD4zp0CCIs=
-github.com/bibasoft-team/drone-envsubst v1.0.4 h1:sfwla3jnuA/5HO23iNxUqP7RFgrRsHWehK/2NO5XZhM=
-github.com/bibasoft-team/drone-envsubst v1.0.4/go.mod h1:y3TfYA9PKaolx0VjujFVDhR2St6uPGpGnD8m2UtelAE=
+github.com/bibasoft-team/drone-envsubst v1.0.5 h1:8AaA80MxgTJ5MTxL9kDMrxZi+7KzrI8kXIZypaMb5ZQ=
+github.com/bibasoft-team/drone-envsubst v1.0.5/go.mod h1:y3TfYA9PKaolx0VjujFVDhR2St6uPGpGnD8m2UtelAE=
 github.com/bmatcuk/doublestar v1.1.1 h1:YroD6BJCZBYx06yYFEWvUuKVWQn3vLLQAVmDmvTSaiQ=
 github.com/bmatcuk/doublestar v1.1.1/go.mod h1:UD6OnuiIn0yFxxA2le/rnRU1G4RaI4UvFv1sNto9p6w=
 github.com/boltdb/bolt v1.3.1/go.mod h1:clJnj/oiGkjum5o1McbSZDSLxVThjynRyGBgiAx27Ps=
